@@ -1,0 +1,33 @@
+table{
+  
+  border-collapse: collapse;
+}
+#head1{
+  background-color: brown;
+  color: antiquewhite;
+}
+#head2{
+  
+  color: brown;
+}
+tr:nth-child(odd){
+  background-color: rgb(233, 233, 233);
+
+}
+tr:nth-child(even){
+  background-color:#f5f5f5;
+
+}
+#table2{
+  background-color: antiquewhite;
+}
+#head21
+{
+ background-color:brown;
+ color: antiquewhite;
+}
+body{
+  background-color:rgb(240, 216, 185);
+}
+
+
